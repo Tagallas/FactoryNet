@@ -1,0 +1,26 @@
+# ninja log v5
+14	631	6998973134318849	lib/libgmockd.a	a6b98ba917e56630
+15	585	6956620090232276	CMakeFiles/NetSim.dir/src/package.cpp.obj	4ce50fac581017c1
+12	604	6956620090422262	CMakeFiles/NetSim.dir/src/storage_types.cpp.obj	a170e87bf78aa5fb
+3	925	6956621948012307	CMakeFiles/NetSim.dir/main.cpp.obj	1ed87aa0cd7610de
+926	1043	6956621949152364	NetSim.exe	d187ed07f57b0282
+22	1809	7004972276054261	CMakeFiles/my_project_test.dir/src/storage_types.cpp.obj	101eb1e11561e1fa
+28	6130	7004935532464158	CMakeFiles/my_project_test.dir/test/test_nodes.cpp.obj	18349a288bfe2d3
+37	4305	7004972301438166	CMakeFiles/my_project_test.dir/test/main_gtest.cpp.obj	6ae766316b2bdb30
+18	1918	7004972277414730	CMakeFiles/my_project_test.dir/src/package.cpp.obj	7b1be134ec344d17
+34	3432	7004972292683405	CMakeFiles/my_project_test.dir/test/test_package.cpp.obj	a4f59d59b3a39e67
+35	4113	6996569687554701	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	6f4b50a559dd5365
+38	7404	6996569720357152	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	9b6c8a2da54db5c2
+57	2437	6997227375784033	lib/libgtestd.a	57e384daae33fdfd
+46	3522	7004972293603314	CMakeFiles/my_project_test.dir/test/test_storage_types.cpp.obj	a390cfdff7f26698
+1175	5004	7004927562807524	my_project_test.exe	130d3bbaa8b33625
+25	2585	7004972284228332	CMakeFiles/my_project_test.dir/src/nodes.cpp.obj	f71aac0a42cac85
+30	2336	7004972281720775	CMakeFiles/my_project_test.dir/src/helpers.cpp.obj	b2e544ac8bd5ecd3
+10	110	6956596562755753	CMakeFiles/NetSim.dir/src/nodes.cpp.obj	e689081998340942
+4	854	6956620092927623	CMakeFiles/NetSim.dir/src/helpers.cpp.obj	60c5b82fef69f00f
+32	4344	7004935514667266	CMakeFiles/my_project_test.dir/test/test_Factory.cpp.obj	7f870c61f7fe93a1
+55	4088	6997227392243548	CMakeFiles/my_project_test.dir/test/test_factory_io.cpp.obj	41a1fda957f63108
+1	275	7004972397652884	build.ninja	c2cb25a0de1fb6d3
+10	2664	7004972889780670	CMakeFiles/my_project_test.dir/src/nodes.cpp.obj	f71aac0a42cac85
+7	6245	7004972925887009	CMakeFiles/my_project_test.dir/test/test_nodes.cpp.obj	ebed37401a62dcbd
+6245	10659	7004972970024280	my_project_test.exe	130d3bbaa8b33625

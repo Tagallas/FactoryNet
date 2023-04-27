@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="NetSim" targetName="gtest" />
+      <config projectName="NetSim" targetName="gmock_main" />
+      <config projectName="NetSim" targetName="NetSim" />
+      <config projectName="NetSim" targetName="my_project_test" />
+      <config projectName="NetSim" targetName="gtest_main" />
+      <config projectName="NetSim" targetName="gmock" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51fbbe2f-bc7e-457c-95d8-b4c0e6f96834" name="Changes" comment="poprawka">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-89978091227b0d5b1878.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d0d14a8974ceaf8e51a3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-NetSim-Debug-016fdae9cd7637f342ec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-gmock-Debug-70dbdeacbcca3fc82f1f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-gtest-Debug-12ef0124e07a91e4c849.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-gtest_main-Debug-4801f1d6dcbba34b2b2d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NetSim.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NetSim.dir/src/factory.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NetSim.dir/src/helpers.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NetSim.dir/src/nodes.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NetSim.dir/src/package.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NetSim.dir/src/storage_types.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/src/factory.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/src/helpers.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/src/helpers.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/src/nodes.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/src/nodes.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/src/package.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/src/package.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/src/storage_types.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/src/storage_types.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/test/main_gtest.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/test/main_gtest.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/test/test_nodes.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/test/test_nodes.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/test/test_package.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/test/test_package.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/test/test_storage_types.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_project_test.dir/test/test_storage_types.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/googletest-master/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/googletest-master/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/googletest-master/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/googletest-master/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/googletest-master/googlemock/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/googletest-master/googlemock/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/googletest-master/googlemock/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/googletest-master/googlemock/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/googletest-master/googletest/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/googletest-master/googletest/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/googletest-master/googletest/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/googletest-master/googletest/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lib/libgmockd.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lib/libgmockd.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lib/libgtestd.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lib/libgtestd.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/my_project_test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/my_project_test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/factory.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/factory.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/nodes.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/nodes.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/package.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/package.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/storage_types.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/storage_types.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nodes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/nodes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/package.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/package.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectId" id="2K2RO9uZVldcW4MVv7jrxU16wPf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wojte\Desktop\NetSim\mogs" />
+      <recent name="C:\Users\wojte\Desktop\NetSim\include" />
+      <recent name="C:\Users\wojte\Desktop\NetSim\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Google Test.my_project_test">
+    <configuration name="PackageQueueTest.IsFifoCorrect" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NetSim" TARGET_NAME="my_project_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="NetSim" RUN_TARGET_NAME="my_project_test" TEST_CLASS="PackageQueueTest" TEST_METHOD="IsFifoCorrect" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageQueueTest.IsLifoCorrect" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NetSim" TARGET_NAME="my_project_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="NetSim" RUN_TARGET_NAME="my_project_test" TEST_CLASS="PackageQueueTest" TEST_METHOD="IsLifoCorrect" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageTest.IsIdReused" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NetSim" TARGET_NAME="my_project_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="NetSim" RUN_TARGET_NAME="my_project_test" TEST_CLASS="PackageTest" TEST_METHOD="IsIdReused" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiverPreferencesTest.AddReceiversRescalesProbability" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NetSim" TARGET_NAME="my_project_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="NetSim" RUN_TARGET_NAME="my_project_test" TEST_CLASS="ReceiverPreferencesTest" TEST_METHOD="AddReceiversRescalesProbability" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkerTest.HasBuffer" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NetSim" TARGET_NAME="my_project_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="NetSim" RUN_TARGET_NAME="my_project_test" TEST_CLASS="WorkerTest" TEST_METHOD="HasBuffer" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="my_project_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NetSim" TARGET_NAME="my_project_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="NetSim" RUN_TARGET_NAME="my_project_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetSim" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NetSim" TARGET_NAME="NetSim" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="NetSim" RUN_TARGET_NAME="NetSim">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NetSim" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NetSim" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NetSim" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NetSim" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.NetSim" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="Google Test.my_project_test" />
+      <item itemvalue="Google Test.PackageQueueTest.IsFifoCorrect" />
+      <item itemvalue="Google Test.PackageTest.IsIdReused" />
+      <item itemvalue="Google Test.PackageQueueTest.IsLifoCorrect" />
+      <item itemvalue="Google Test.WorkerTest.HasBuffer" />
+      <item itemvalue="Google Test.ReceiverPreferencesTest.AddReceiversRescalesProbability" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.WorkerTest.HasBuffer" />
+        <item itemvalue="Google Test.ReceiverPreferencesTest.AddReceiversRescalesProbability" />
+        <item itemvalue="Google Test.PackageTest.IsIdReused" />
+        <item itemvalue="Google Test.PackageQueueTest.IsLifoCorrect" />
+        <item itemvalue="Google Test.PackageQueueTest.IsFifoCorrect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51fbbe2f-bc7e-457c-95d8-b4c0e6f96834" name="Changes" comment="" />
+      <created>1673170657815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673170657815</updated>
+      <workItem from="1673170660599" duration="1187000" />
+      <workItem from="1673171871294" duration="796000" />
+      <workItem from="1673186063311" duration="2198000" />
+      <workItem from="1673520420969" duration="5912000" />
+      <workItem from="1673530552796" duration="3462000" />
+      <workItem from="1673534432941" duration="39000" />
+      <workItem from="1673535815430" duration="2550000" />
+      <workItem from="1673777715589" duration="6761000" />
+      <workItem from="1673784797464" duration="11409000" />
+      <workItem from="1673816413257" duration="462000" />
+      <workItem from="1673871525590" duration="2177000" />
+      <workItem from="1673877421801" duration="3401000" />
+      <workItem from="1673889990109" duration="19232000" />
+      <workItem from="1674036180691" duration="2807000" />
+      <workItem from="1674042633215" duration="1080000" />
+      <workItem from="1674069294020" duration="4042000" />
+      <workItem from="1674120683423" duration="1699000" />
+      <workItem from="1674135184994" duration="4473000" />
+      <workItem from="1674152717292" duration="1630000" />
+      <workItem from="1674390889724" duration="3067000" />
+      <workItem from="1674405218124" duration="2791000" />
+      <workItem from="1674450797222" duration="8031000" />
+      <workItem from="1674477545899" duration="614000" />
+      <workItem from="1674574191266" duration="3900000" />
+      <workItem from="1674735141052" duration="98000" />
+      <workItem from="1674739963865" duration="3235000" />
+      <workItem from="1674937335235" duration="112000" />
+      <workItem from="1677936988003" duration="844000" />
+      <workItem from="1677938088257" duration="3649000" />
+      <workItem from="1677957026458" duration="1419000" />
+      <workItem from="1678018302692" duration="1280000" />
+      <workItem from="1678044141417" duration="478000" />
+      <workItem from="1678193994550" duration="1220000" />
+      <workItem from="1678196491454" duration="46000" />
+      <workItem from="1678529348711" duration="7981000" />
+      <workItem from="1678701300017" duration="2038000" />
+      <workItem from="1678788217431" duration="4552000" />
+      <workItem from="1680863331884" duration="2320000" />
+      <workItem from="1682592645800" duration="1000" />
+    </task>
+    <task id="LOCAL-00001" summary="szkielet2">
+      <created>1673171930806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673171930806</updated>
+    </task>
+    <task id="LOCAL-00002" summary="klasa package(czesc)">
+      <created>1673525514898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673525514898</updated>
+    </task>
+    <task id="LOCAL-00003" summary="zmiany, komplikacje">
+      <created>1673534463002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673534463002</updated>
+    </task>
+    <task id="LOCAL-00004" summary="zostały poprawki">
+      <created>1673805683107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673805683107</updated>
+    </task>
+    <task id="LOCAL-00005" summary="destruktor packagequeue spierdolonyt">
+      <created>1673816872001</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673816872001</updated>
+    </task>
+    <task id="LOCAL-00006" summary="testy przechodzi, ale działa tak se">
+      <created>1673873711063</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673873711063</updated>
+    </task>
+    <task id="LOCAL-00007" summary="cz3">
+      <created>1674078908035</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674078908035</updated>
+    </task>
+    <task id="LOCAL-00008" summary="do wysłania">
+      <created>1674139622297</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674139622297</updated>
+    </task>
+    <task id="LOCAL-00009" summary="działa tak o">
+      <created>1674407964680</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674407964680</updated>
+    </task>
+    <task id="LOCAL-00010" summary="działa tak o">
+      <created>1674408006130</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674408006130</updated>
+    </task>
+    <task id="LOCAL-00011" summary="mechanika break">
+      <created>1674477561607</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674477561608</updated>
+    </task>
+    <task id="LOCAL-00012" summary="wersja dla factory testów">
+      <created>1674578315185</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674578315185</updated>
+    </task>
+    <task id="LOCAL-00013" summary="nodes testy">
+      <created>1674742375789</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674742375789</updated>
+    </task>
+    <task id="LOCAL-00014" summary="poprawka">
+      <created>1674742543394</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674742543394</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="szkielet2" />
+    <MESSAGE value="klasa package(czesc)" />
+    <MESSAGE value="zmiany, komplikacje" />
+    <MESSAGE value="zostały poprawki" />
+    <MESSAGE value="destruktor packagequeue spierdolonyt" />
+    <MESSAGE value="testy przechodzi, ale działa tak se" />
+    <MESSAGE value="cz3" />
+    <MESSAGE value="do wysłania" />
+    <MESSAGE value="działa tak o" />
+    <MESSAGE value="mechanika break" />
+    <MESSAGE value="wersja dla factory testów" />
+    <MESSAGE value="nodes testy" />
+    <MESSAGE value="poprawka" />
+    <option name="LAST_COMMIT_MESSAGE" value="poprawka" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/test/test_storage_types.cpp</url>
+          <line>23</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/test/test_storage_types.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
